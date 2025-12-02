@@ -1,38 +1,72 @@
-## BTU's Profile
-Welcome to my personal portfolio repository! This space showcases my journey as a data enthusiast and developer, highlighting my skills, knowledge, and projects that reflect my growth and passion for technology.
+<h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
+<h3 align="center">Aspiring Frontend Developer | Cloud & DevOps Learner | Engineering Student</h3>
 
-## About Me
-I am an aspiring data analyst and software developer with a keen interest in solving real-world problems using data-driven approaches. I continuously strive to enhance my skills in programming, analytics, and machine learning through hands-on projects and learning.
+---
 
-## Skills
-```
-Programming Languages: Python, JavaScript, C
-Data Analytics: Data Cleaning, Visualization, Predictive Modeling
-Tools & Libraries: Pandas, NumPy, Matplotlib, Scikit-learn
-Other Skills: Problem-solving, Algorithm Design, Version Control (Git)
-```
+## 🚀 About Me
+- 🎓 Second-year engineering student at **Saveetha Engineering College**
+- 🌱 Currently learning **Full Stack Development, Cloud, and DevOps**
+- 👨‍💻 Preparing for **GSoC 2026** and aiming for **IIT Madras M.Tech (CSE)** in future
+- 💡 I love building projects that solve real-world problems  
+- 🎯 Goal: **Become a highly skilled data engineer with 30–40 LPA+ potential**
+- 📫 Reach me at: **bhuvaneshwarantu1004@gmail.com**
 
-## Knowledge Areas
-```
-Data Analysis and Visualization techniques
-Predictive modeling and machine learning basics
-Fundamental concepts in graph algorithms and scheduling
-```
+---
 
-## Projects
-```
-Student Rank Predictor: A simple predictive model to estimate student ranks based on past performance data.
-Portfolio Website: My personal website showcasing projects and skills.
-Additional smaller scripts and projects focused on data processing and analysis
-```
+## 🛠️ Skills & Tools
 
-## How To Use
-Feel free to explore the project folders to see my work in detail. You can clone the repo and run the code locally if you wish to experiment or learn from it.
+### 🔹 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## License
-This repository is licensed under Creative Commons Zero v1.0 Universal (CC0 1.0), meaning the contents are free to use, modify, and distribute without restrictions.
+### 🔹 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
-## Contact
-1.Linkedin: https://www.linkedin.com/in/bhuvaneshwaran-tu/
 
-2.Mail: bhuvaneshwarantu1004@gmail.com 
+### 🔹 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Login System (Frontend)** | Responsive login form with data storage | HTML, CSS, JS |
+| **E-Commerce ETL Pipeline** *(In progress)* | PostgreSQL-based ETL + Medallion Architecture | Python, SQL |
+| **Portfolio Website** *(Upcoming)* | Personal developer portfolio | React, Tailwind CSS |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhuvaneshtu10&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?login=bhuvaneshtu10&theme=tokyonight" height="160" />
+</p>
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bhuvaneshwaran-tu" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bhuvaneshwarantu1004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*  
