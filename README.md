@@ -39,7 +39,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Login System (Frontend)** | Responsive login form with data storage | HTML, CSS, JS |
-| **E-Commerce ETL Pipeline** *(In progress)* | PostgreSQL-based ETL + Medallion Architecture | Python, SQL |
+| **Restaurant website (Frontend)**| Responsive design of the website with clean UI | HTML, CSS, JS |
 | **Portfolio Website** *(Upcoming)* | Personal developer portfolio | React, Tailwind CSS |
 
 ---
