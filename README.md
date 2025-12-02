@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Full Stack Development, Cloud, and DevOps**
 - 👨‍💻 Preparing for **GSoC 2026** and aiming for **IIT Madras M.Tech (CSE)** in future
 - 💡 I love building projects that solve real-world problems  
-- 🎯 Goal: **Become a highly skilled data engineer with 30–40 LPA+ potential**
+- 🎯 Goal: **Become a highly skilled data engineer with 20 LPA+ potential**
 - 📫 Reach me at: **bhuvaneshwarantu1004@gmail.com**
 
 ---
