@@ -43,13 +43,33 @@
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/bhuvaneshwaran-tu" target="_blank">
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/YOUR-LINK-HERE" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
 </a>
+
+<!-- Bento -->
+<a href="https://bento.me/bhuvaneshtu" target="_blank">
+  <img src="https://img.shields.io/badge/Bento.me-000000?logo=linktree&logoColor=white" />
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/artistic_btu" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+</a>
+
+<!-- Email -->
 <a href="mailto:bhuvaneshwarantu1004@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=bhuvaneshtu10&label=Profile%20Views&color=blue&style=flat" />
+
 </p>
 
 ---
