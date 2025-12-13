@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
-<h3 align="center">Aspiring Frontend Developer | Cloud & DevOps Learner | Engineering Student</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi+👋+,+this+is+Bhuvanesh&fontSize=40&fontAlignY=35&animation=twinkling" />
+</p>
 
----
+<h3 align="center"> Campus Lead-OSCG'26 | Frontend Developer | Cloud & DevOps Learner | Engineering Student</h3>
 
 ## 🚀 About Me
 - 🎓 Second-year engineering student at **Saveetha Engineering College**
@@ -75,3 +76,8 @@
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
