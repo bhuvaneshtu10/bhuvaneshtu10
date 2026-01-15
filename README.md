@@ -36,7 +36,7 @@
 </p>
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=bhuvaneshtu10&theme=tokyonight" height="160" />
-</p>
+</p>>
 
 
 ---
@@ -75,8 +75,4 @@
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 
