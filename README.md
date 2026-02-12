@@ -36,8 +36,7 @@
 </p>
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=bhuvaneshtu10&theme=tokyonight" height="160" />
-</p>>
-
+</p>
 
 ---
 
