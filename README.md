@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi+👋+,+this+is+Bhuvanesh&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
-<h3 align="center"> Campus Lead-OSCG'26 | Contributor-SWOC'26 | Frontend Developer | Cloud & DevOps Learner | Engineering Student</h3>
+<h3 align="center"> Campus Lead-OSCG'26 | Contributor-SWOC'26 | Frontend Developer | Engineering Student | Artist</h3>
 
 ## 🚀 About Me
 - 🎓 Second-year engineering student at **Saveetha Engineering College**
