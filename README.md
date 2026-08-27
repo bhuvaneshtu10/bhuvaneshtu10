@@ -5,10 +5,10 @@
 <h3 align="center"> Campus Lead-OSCG'26 | Contributor-SWOC'26 | Frontend Developer | Engineering Student | Artist</h3>
 
 ## 🚀 About Me
-- 🎓 Second-year engineering student at **Saveetha Engineering College**
-- 🌱 Currently learning **Full Stack Development,Blockchain**
+- 🎓 Third-year engineering student at **Saveetha Engineering College**
+- 🌱 Aspiring Java developer
 - 💡 I love building projects that solve real-world problems  
-- 🎯 Goal: **Become a highly skilled data engineer with 20 LPA+ potential**
+- 🎯 Goal: **Become a highly skilled java developer with 20 LPA+ potential**
 - 📫 Reach me at: **bhuvaneshwarantu1004@gmail.com**
 
 ---
